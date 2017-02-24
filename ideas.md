@@ -1,4 +1,4 @@
-#Project Ideas$
+#Project Ideas#
 
 ##Recommending Github Repositories##
 
